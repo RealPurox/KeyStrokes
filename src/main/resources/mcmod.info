@@ -1,0 +1,16 @@
+[
+{
+  "modid": "keystrokes",
+  "name": "KeyStrokes Mod",
+  "description": "1.7 KeyStrokes mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Purox"],
+  "credits": "twitter.com/RealPurox",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
